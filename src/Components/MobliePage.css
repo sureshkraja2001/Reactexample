@@ -1,0 +1,9 @@
+.sks{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.web1{
+    color: rgb(43, 219, 43);
+    background-color: aqua;
+}
